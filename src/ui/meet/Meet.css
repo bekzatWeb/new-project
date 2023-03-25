@@ -1,0 +1,27 @@
+.meet{
+    margin: 10px;
+    padding: 30px;
+    width: 100%;
+    background: #00BC62;
+    border-radius: 30px;
+}
+.meet h1{
+    font-family: 'Arial',sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: -0.5px;
+    color: #FFFFFF;
+}
+.meet p{
+    padding: 20px 0;
+    width: 442.83px;
+    height: 44px;
+    font-family: 'Arial',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.5px;
+    color: #FFFFFF;
+}

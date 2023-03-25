@@ -1,0 +1,45 @@
+#rent{
+    padding: 50px 0;
+    padding-top: 140px;
+}
+.rent{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+}
+.left{
+    padding: 40px;
+    width: 535px;
+    height: 500px;
+    background: #F7F7F7;
+    border-radius: 15px;
+}
+.divImg{
+    width: 615px;
+    height: 570px;
+}
+.left h1{
+    font-family: 'Arial',sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+    letter-spacing: -1px;
+    color: #4F4F4F;
+}
+.left p{
+    padding: 30px 0;
+    width: 467.76px;
+    height: 67px;
+    font-family: 'Arial',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.5px;
+    color: #4F4F4F;
+}

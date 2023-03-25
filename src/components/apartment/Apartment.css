@@ -1,0 +1,8 @@
+#apartment{
+    padding-bottom: 120px;
+}
+.apartment{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

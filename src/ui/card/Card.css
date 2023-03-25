@@ -1,0 +1,19 @@
+.card{
+    padding: 20px;
+    max-width: 280px;
+    width: 100%;
+    background: #F7F7F7;
+    border-radius: 30px;
+}
+.card h1{
+    font-weight: 700;
+    font-size: 48px;
+    letter-spacing: -0.5px;
+    color: #00BC62;
+}
+.card p{
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: -0.5px;
+    color: #4F4F4F;
+}

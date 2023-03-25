@@ -1,0 +1,7 @@
+#contacts{
+    margin-bottom: 120px;
+}
+.contacts{
+    display: flex;
+    gap: 20px;
+}
